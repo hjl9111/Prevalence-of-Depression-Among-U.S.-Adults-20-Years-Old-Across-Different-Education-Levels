@@ -28,22 +28,22 @@ There is an inverse relationship between education level and depression among U.
 
 ## References
 
-Hao Y., Ge H., Sun M., Gao Y. (2019). [Selecting an Appropriate Animal Model of Depression.](https://doi.org/10.3390/ijms20194827) International Journal of Molecular Sciences. 2019;20(19):4827. 
+Hao Y., Ge H., Sun M., Gao Y. (2019). Selecting an Appropriate Animal Model of Depression. International Journal of Molecular Sciences. 2019;20(19):4827. 
 
-Li L., Sun W., Luo J., Huang H. (2022). [Associations between education levels and prevalence of depressive symptoms: NHANES (2005–2018).](https://doi.org/10.1016/j.jad.2022.01.010) Journal of Affective Disorders. 2022;301:360-367. 
+Li L., Sun W., Luo J., Huang H. (2022). Associations between education levels and prevalence of depressive symptoms: NHANES (2005–2018). Journal of Affective Disorders. 2022;301:360-367. 
 
-Patel J. S., Oh Y., Rand K. L., Wu W., Cyders M.A., Kroenke K., Stewart J. C. (2019). [Measurement invariance of the patient health questionnaire‐9 (PHQ‐9) depression screener in U.S. adults across sex, race/ethnicity, and education level: NHANES 2005–2016.](https://doi.org/10.1002/da.22940) Depression and Anxiety. 2019;36(9):813-823. 
+Patel J. S., Oh Y., Rand K. L., Wu W., Cyders M.A., Kroenke K., Stewart J. C. (2019). Measurement invariance of the patient health questionnaire‐9 (PHQ‐9) depression screener in U.S. adults across sex, race/ethnicity, and education level: NHANES 2005–2016. Depression and Anxiety. 2019;36(9):813-823. 
 
-Lee B., Wang Y., Carlson S. A., Greenlund K. J., Lu H., Liu Y., Croft J. B., Eke P. I., Town M., Thomas C. W. (2023). National, State-Level, and County-Level Prevalence Estimates of Adults Aged ≥18 Years Self-Reporting a Lifetime Diagnosis of Depression - United States. MMWR Morbidity and Mortality Weekly Report. 2023;72(24). https://doi.org/10.15585/mmwr.mm7224a1
+Lee B., Wang Y., Carlson S. A., Greenlund K. J., Lu H., Liu Y., Croft J. B., Eke P. I., Town M., Thomas C. W. (2023). National, State-Level, and County-Level Prevalence Estimates of Adults Aged ≥18 Years Self-Reporting a Lifetime Diagnosis of Depression - United States. MMWR Morbidity and Mortality Weekly Report. 2023;72(24). 
 
-Taple B. J., Chapman R., Schalet B. D., Brower R., Griffith J. W. (2020). The Impact of Education on Depression Assessment: Differential Item Functioning Analysis. Assessment. https://doi.org/10.1177/1073191120971357
+Taple B. J., Chapman R., Schalet B. D., Brower R., Griffith J. W. (2020). The Impact of Education on Depression Assessment: Differential Item Functioning Analysis. Assessment. 
 
-Samudio-Cruz M. A., Toussaint-González P., Estrada-Cortés B., Martínez-Cortéz J. A., Rodríguez-Barragán M. A., Hernández-Arenas C., Quinzaños-Fresnedo J., Carrillo-Mora P. (2023). Education Level Modulates the Presence of Poststroke Depression and Anxiety, But It Depends on Age. The Journal of Nervous and Mental Disease. 2023;211(8):585-591. https://doi.org/10.1097/NMD.0000000000001663 
+Samudio-Cruz M. A., Toussaint-González P., Estrada-Cortés B., Martínez-Cortéz J. A., Rodríguez-Barragán M. A., Hernández-Arenas C., Quinzaños-Fresnedo J., Carrillo-Mora P. (2023). Education Level Modulates the Presence of Poststroke Depression and Anxiety, But It Depends on Age. The Journal of Nervous and Mental Disease. 2023;211(8):585-591. 
 
-Kondirolli F., Sunder N. Mental health effects of education. Health Economics. 2022;31(Suppl 2):22-39. https://doi.org/10.1002/hec.4565 
+Kondirolli F., Sunder N. Mental health effects of education. Health Economics. 2022;31(Suppl 2):22-39. 
 
-National Center for Health Statistics. (2013). Vital and Health Statistics Report Series 1, Number 56 August 2013. https://www.cdc.gov/nchs/data/series/sr_01/sr01_056.pdf
+National Center for Health Statistics. (2013). Vital and Health Statistics Report Series 1, Number 56 August 2013. 
 
-Kroenke K., Spitzer R. L., Williams J. B. W. (2001). The PHQ-9: Validity of a brief depression severity measure. Journal of General Internal Medicine. 2001;16(9):606-613. https://doi.org/10.1046/j.1525-1497.2001.016009606.x
+Kroenke K., Spitzer R. L., Williams J. B. W. (2001). The PHQ-9: Validity of a brief depression severity measure. Journal of General Internal Medicine. 2001;16(9):606-613. 
 
-Ettman C. K., Abdalla S. M., Cohen G. H., Sampson L., Vivier P. M., Galea S. Prevalence of Depression Symptoms in US Adults Before and During the COVID-19 Pandemic. JAMA Network Open. 2020;3(9):e2019686. https://doi.org/10.1001/jamanetworkopen.2020.19686 
+Ettman C. K., Abdalla S. M., Cohen G. H., Sampson L., Vivier P. M., Galea S. Prevalence of Depression Symptoms in US Adults Before and During the COVID-19 Pandemic. JAMA Network Open. 2020;3(9):e2019686. 
