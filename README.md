@@ -28,7 +28,7 @@ There is an inverse relationship between education level and depression among U.
 
 ## References
 
-Hao Y., Ge H., Sun M., Gao Y. (2019). Selecting an Appropriate Animal Model of Depression. International Journal of Molecular Sciences. 2019;20(19):4827. https://doi.org/10.3390/ijms20194827
+Hao Y., Ge H., Sun M., Gao Y. (2019). [Selecting an Appropriate Animal Model of Depression. International Journal of Molecular Sciences.](https://doi.org/10.3390/ijms20194827) 2019;20(19):4827. 
 
 Li L., Sun W., Luo J., Huang H. (2022). Associations between education levels and prevalence of depressive symptoms: NHANES (2005–2018). Journal of Affective Disorders. 2022;301:360-367. https://doi.org/10.1016/j.jad.2022.01.010
 
