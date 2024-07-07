@@ -1,5 +1,7 @@
 # Prevalence of Depression Among U.S. Adults ≥ 20 Years Old Across Different Education Levels, Data from the NHANES (2017-Prepandemic March 2020)
 
+**Task: Univariable, Bivariable, Multivariable, Regression (Linear and Logistic) Analyses**
+
 **Topic: Analyzing the Association Between Education Level and Depression in U.S. Adults**
 
 **Language: Stata**
